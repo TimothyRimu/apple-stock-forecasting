@@ -1,0 +1,7 @@
+model,RMSE,OOS R2 vs zero,directional accuracy
+Ridge,0.0191,0.0007,0.525
+Random forest,0.0192,-0.0061,0.5023
+XGBoost,0.0193,-0.013,0.518
+Zero (random walk),0.0191,0.0,
+Drift (past mean),0.0191,0.0025,0.5349
+Always predict up,,,0.5349

@@ -1,0 +1,5 @@
+model,mean error reduction vs zero (t-test p),beats always-up on direction (p)
+Ridge,0.864,0.801
+Random forest,0.487,0.997
+XGBoost,0.379,0.923
+Drift (past mean),0.322,0.51
